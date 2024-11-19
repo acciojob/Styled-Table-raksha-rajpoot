@@ -1,1 +1,13 @@
 /* your code */
+table{
+	border: 1px solid gray;
+   backdrop-filter: blur(7px);
+	box-shadow: 0.1rem .1rem #0005;
+	border-radius: .8rem;
+}
+thead{
+	background-color:purple;
+}
+.row-2{
+	background-color:lightgray;
+}
